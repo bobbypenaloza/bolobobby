@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278602652264",
+    "project_id": "bolobobby1",
+    "storage_bucket": "bolobobby1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278602652264:android:1362aeabda25c5f890f9dd",
+        "android_client_info": {
+          "package_name": "com.bobby.bolobobby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278602652264-9c0ea36vapcpo6moe334ej2o7gje71g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGg7QeSiyzEUTd5DvxsJuUt4tiHbrpek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278602652264-9c0ea36vapcpo6moe334ej2o7gje71g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
